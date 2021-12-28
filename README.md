@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/readme.jpg">
+	<img src="images/banner.png">
 	<img src="images/time_serie_no_exog.png">
 	<a href="https://github.com/juliokozarewicz/industrial_electricity_consumption"><img src="images/time_serie_no_exog_eletricity.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
 	<a href="https://github.com/juliokozarewicz/car_production"><img src="images/time_serie_no_exog_car.png" class="media-object  img-responsive img-thumbnail" target="_blank"></a>
