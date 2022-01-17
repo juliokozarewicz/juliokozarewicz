@@ -2,6 +2,7 @@
 	<a href="https://github.com/juliokozarewicz"><img src="images/banner.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
 	<a href="https://github.com/juliokozarewicz"><img src="images/time_serie_with_exog.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
 	<a href="https://github.com/juliokozarewicz/crude_steel"><img src="images/time_serie_with_exog_crude_steel.png" class="media-object img-responsive img-thumbnail" target="_blank"></a><br />
+	<a href="https://github.com/juliokozarewicz/vale3_time_series"><img src="images/time_serie_with_exog_vale3.png" class="media-object img-responsive img-thumbnail" target="_blank"></a><br />
 	<br />
 	<a href="https://github.com/juliokozarewicz"><img src="images/time_serie_no_exog.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
 	<a href="https://github.com/juliokozarewicz/pig_iron"><img src="images/time_serie_no_exog_pig_iron.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
