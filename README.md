@@ -1,5 +1,7 @@
 <p align="center">
 	<a href="https://github.com/juliokozarewicz"><img src="images/banner.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
+	<a href="https://github.com/juliokozarewicz"><img src="images/projects.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
+	<a href="https://github.com/juliokozarewicz/credit_risk"><img src="images/credit_risk.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
 	<a href="https://github.com/juliokozarewicz"><img src="images/time_serie_with_exog.png" class="media-object img-responsive img-thumbnail" target="_blank"></a>
         <a href="https://github.com/juliokozarewicz/ggbr4_time_series"><img src="images/time_serie_with_exog_ggbr4.png" class="media-object img-responsive img-thumbnail" target="_blank"></a><br />
 	<a href="https://github.com/juliokozarewicz/mglu3_time_serie"><img src="images/time_serie_with_exog_magalu.png" class="media-object img-responsive img-thumbnail" target="_blank"></a><br />
