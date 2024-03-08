@@ -1,5 +1,5 @@
 <img src="0_utils/banner.png">
-<div style="display: flex; width: 100%;">
+<div style="width: 100%; display: flex; align-itens: center">
   <a href="https://github.com/juliokozarewicz">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=juliokozarewicz&theme=dark&count_private=true"/>
   </a>
