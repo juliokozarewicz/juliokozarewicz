@@ -20,6 +20,3 @@ I’m a software engineer specializing in backend development, though I also hav
 
 - **Databases:** 
   - I organize and manage data efficiently to ensure everything runs smoothly! 🗃️
-
-- **Tools & Platforms:** 
-  - I use modern tools and platfor
