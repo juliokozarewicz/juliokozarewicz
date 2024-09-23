@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉
 
-I am a software engineer with a focus on backend development. I also have skills in front-end development, mobile applications, and UI design. I've always had a passion for photography, technology, gaming, art, science fiction, and mathematics. My analytical skills help me identify problems and come up with creative solutions. I face challenges head-on and always look for ways to improve. I'm excited to use my skills to develop innovative and effective solutions to meet your needs.
+I’m a software engineer specializing in backend development, though I also have experience in front-end, mobile apps, and UI design. My journey as a programmer began during my first degree in Economics, where I discovered Python and developed machine learning models for data predictions. I’m passionate about photography, technology, gaming, art, science fiction, and math, all of which frequently influence my projects. I’m excited to apply my skills in creating innovative and effective solutions that meet your needs!
 
 ## **My Areas of Expertise** 💡🚀
 
