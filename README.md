@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉
 
-I’m a software engineer specializing in backend development, though I also have experience in front-end, mobile apps, and UI design. My journey as a programmer began during my first degree in Economics, where I discovered Python and developed machine learning models for data predictions. I’m passionate about photography, technology, gaming, art, science fiction, and math, all of which frequently influence my projects. I’m excited to apply my skills in creating innovative and effective solutions that meet your needs!
+As a software engineer, backend development is my area of expertise. I also have some experience in interface design, mobile apps, and front-end development. I started my programming career by creating machine learning models for data forecasting while pursuing my first degree in economics. Later, I expanded my understanding of web development in Software Engineering. My work is often influenced by my passions for science fiction, mathematics, art, technology, photography, and video games. I’m excited to use my skills to develop creative and practical solutions that meet your needs!
 
 ## **My Areas of Expertise** 💡🚀
 
